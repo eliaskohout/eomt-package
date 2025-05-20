@@ -22,4 +22,4 @@ dependencies = [
 ]
 
 [tool.setuptools]
-packages = ["models", "training", "datasets"]
+packages = ["eomt.models", "eomt.training", "eomt.datasets"]
